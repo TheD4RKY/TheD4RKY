@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TheD4RKY
-- 👀 I’m interested in html, scss, typescript, c++ and many more.
-- 🌱 I’m currently learning mostly NextJS with Typescript 
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in developing apps around web base.
+- 🌱 I’m currently learning / working in NextJS with superset of JS and that's Typescript. I'm still studying high school where i learn cpp and php.
+- 💞️ I’m looking to collaborate on webApps
 -📫 How to reach me - discord: -TheRealDarky-#7232, email: growlbox123g@gmail.com, twitter: @outrunsamurai
 
 
