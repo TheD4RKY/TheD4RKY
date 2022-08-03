@@ -4,3 +4,5 @@
 - 📫 You can reach me on - discord: -TheRealDarky-#7232 or via email: growlbox123g@gmail.com
 
 > I'm going for both front-end & back-end.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheD4RKY)](https://github.com/anuraghazra/github-readme-stats)
