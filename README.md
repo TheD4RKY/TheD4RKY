@@ -21,8 +21,8 @@
 - 📫 You can reach me on - discord: -TheRealDarky-#7232 or via email: growlbox123g@gmail.com. 
 ## Favorite Non-Tech Things?
 
-### :car: Car brand
-- Subaru
+### :car: Car 
+- Subaru WRX STI 2015
 
 ### :book: Book
 - World of Warcraft: Rise of the lich king
