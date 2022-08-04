@@ -9,8 +9,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheD4RKY&show_icons=true&theme=tokyonight&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Human Languages
-- Czech: Native Speaker
-- English: Kind of good in my opinion
+- :czech_republic: Czech: Native Speaker 
+- :eu: English: Kind of good in my opinion
 - Any other: Google Translate
 
 ## Something about me
@@ -20,11 +20,25 @@
 - 🌱 My favorite programming languages are Typescript/Javascript. I graduated high school with specialization on "IT". In school I've been learning C++/PHP/MySQL/HTML5/CSS3 and Js/Ts in free time.
 - 📫 You can reach me on - discord: -TheRealDarky-#7232 or via email: growlbox123g@gmail.com. 
 ## Favorite Non-Tech Things?
-### Car brand
+
+### :car: Car brand
 - Subaru
-### Book
+
+### :book: Book
 - World of Warcraft: Rise of the lich king
-### OS
+
+### :notes: Music
+- Rap
+
+### :blue_book: Manga/Anime
+- Bleach, Berserk
+
+### :movie_camera: Movie
+- Pulp Fiction, Trainspotting, LOTR Trillogy
+
+### :tv: Series
+- Breaking bad, Better call saul
+
 ## Favorite Tech Things?
 ### OS
 - Linux: Debian or any Debian based distro
@@ -42,8 +56,8 @@
 
 
 
-
 > I'm Full-Stack developer rn.
+> I'm always looking for more knowledge
 > Working at Synapse/5.
 
 
