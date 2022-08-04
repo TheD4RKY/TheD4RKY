@@ -1,6 +1,6 @@
 # Dennis Kalužík / TheRealDarky
 
-## GithubStats
+## Github Statistics 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheD4RKY&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) 
 
