@@ -47,7 +47,7 @@
 ### Computer Hardware Brand
 - AMD (both CPU'S and GPU's)
 - Cisco and Netgear (networking product's)
-- Poco (Smart phone's)
+- Xiaomi/Poco (Smart phone's)
 - Dell (Monitor's)
 
 ### Programming Languages and Library
