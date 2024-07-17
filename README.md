@@ -14,24 +14,24 @@
 - Any other: Google Translate
 
 ## Something about me
-- 👋 Hi, I’m @TheD4RKY also known as Dennis Kalužík
-- 👀 I’m interested in developing web applications or any other interesting project. I love react and especially framework NextJS.
+- 👋 Hi, I’m @TheD4RKY also known as Dennis K.
 - :video_game: In my spare time I love to play computer games (especially Escape from Tarkov) or I do touch grass aswell (spending time in hookah lounge, bar, on casuall walk).
 - 🌱 My favorite programming languages are Typescript/Javascript. I graduated high school with specialization on "IT". In school I've been learning C++/PHP/MySQL/HTML5/CSS3 and Js/Ts in free time.
-- 📫 You can reach me on - discord: -TheRealDarky-#7232 or via email: growlbox123g@gmail.com. 
+- 📫 You can reach me on - discord: -TheRealDarky-
 ## Favorite Non-Tech Things?
 
 ### :car: Car 
 - Subaru WRX STI 2015
+- Car I own: Skoda Superb MK2
 
 ### :book: Book
 - World of Warcraft: Rise of the lich king
 
 ### :notes: Music
-- Rap
+- Rap, Rap Metal
 
 ### :blue_book: Manga/Anime
-- Bleach, Berserk
+- Bleach, Berserk, One Piece, Solo leveling
 
 ### :movie_camera: Movie
 - Pulp Fiction, Trainspotting, LOTR Trillogy
@@ -44,20 +44,21 @@
 - Linux: Debian or any Debian based distro
 - Windows: XP was the last good one
 
-### Computer Hardware Brand
-- AMD (both CPU'S and GPU's)
+### Computer Hardware
+- Ryzen 7 7800X3D
+- RTX 3070TI
+- 32GB Ram
 - Cisco and Netgear (networking product's)
-- Xiaomi/Poco (Smart phone's)
-- Dell (Monitor's)
+- Xiaomi/Poco F3 (Smart phone's)
+- Dell 27 144hz FHD (Monitor's)
 
-### Programming Languages and Library
+### Programming Languages and Libraries
 - Javascript / Typescript
 - AOS and ReactJS
 
 
 
-> I'm Full-Stack developer rn.
-> I'm always looking for more knowledge
-> Working at Synapse/5.
+> I'm in Gamedev. Former job was fullstack dev
+> Kinda lazy
 
 
